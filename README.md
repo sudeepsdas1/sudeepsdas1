@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **DSA WITH STRANGER**
 
-- 🌱 I’m currently learning **Dsa And Android Dev.**
+- 🌱 I’m currently learning **BACKEND,ML and Competitive Programming.**
 
 - 👨‍💻 All of my projects are available at **Currenty Working.**
 
