@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **.**sudeepsdas2002@gmail.com.**
 
-- ⚡ Fun fact **I make Memes Bro.**
+- ⚡ **I make Memes .**
 <hr>
 <hr>
 <hr>
@@ -34,9 +34,7 @@
 <hr>
 
 <p align="center">
-    <a href="https://github.com/sudeepsdas1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sudeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepsdas1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+   
 </p>
 <hr>
 <hr>
