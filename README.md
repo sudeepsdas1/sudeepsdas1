@@ -15,9 +15,6 @@
 - 📫 How to reach me **.**sudeepsdas2002@gmail.com.**
 
 - ⚡ **I make Memes .**
-<hr>
-<hr>
-<hr>
 
 ## 🚀 Languages Tools:
 
@@ -51,15 +48,8 @@
 
 <a href="https://twitter.com/@SUDEEPDAS24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SUDEEPDAS24" height="30" width="40" /></a><a href="https://stackoverflow.com/users/16765460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15759621" height="30" width="40" /></a><a href="https://instagram.com/sudeepsdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudeepsdas" height="30" width="40" /></a>
 </p>
-<hr>
-<hr>
-<hr>
 
 ## ❤ Views and Followers
 <a href="https://github.com/sudeepsdas1/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=sudeepsdas1"></a><a href="https://github.com/sudeepsdas1?tab=followers"><img src="https://img.shields.io/github/followers/sudeepsdas1?label=Followers&style=social" alt="GitHub Badge"></a>
-<hr>
-<hr>
-<hr><hr>
-<hr>
-<hr>
+
 
