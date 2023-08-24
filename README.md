@@ -29,22 +29,12 @@
    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 <br>
-<hr>
-<hr>
-<hr>
+
 
 <p align="center">
    
 </p>
-<hr>
-<hr>
-<hr>
-## 📊 My Github Stats
 
- 
-  <hr>
-<hr>
-<hr>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -55,9 +45,7 @@
 
 <br/>
 <br/>
-<hr>
-<hr>
-<hr>
+
 ## Connect with me:
 <p align="left">
 
